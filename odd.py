@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+***datetime is a standard library***
 from datetime import datetime
 """ The first datetime is the name of the standard library module to import the reusable code from
     The second datetime is the name of the submodule
